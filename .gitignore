@@ -13,3 +13,9 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 项目运行数据与产物
+data/
+bin/
+backend/web/dist/
+!backend/web/dist/placeholder.txt
