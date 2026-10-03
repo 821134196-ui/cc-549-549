@@ -1,0 +1,6 @@
+ref,work_code,sale_date,period,region,language,format,qty,unit_price,amount,original_ref
+S001,W001,2025-06-10,2025-06,CN,zh,print,100,50.00,5000.00,
+S002,W001,2025-06-12,2025-06,CN,zh,ebook,200,20.00,4000.00,
+S003,W001,2025-06-15,2025-06,TW,zh,print,30,50.00,1500.00,
+S004,W001,2025-06-20,2025-06,CN,zh,print,-10,50.00,-500.00,S001
+S005,W001,2025-06-18,2025-06,CN,zh,print,1,33.37,33.37,

@@ -1,0 +1,6 @@
+# 运行数据与二进制
+data/*.db
+data/*.db-*
+royalty
+*.exe
+.tools/
